@@ -4,7 +4,7 @@ I am a Computer Engineering senior student at ITU. I learned C and C++ at ITU. O
 
 
 - 🔭 I’m currently working on Softtech
-- 🌱 I’m currently learning .Net Core, Angular and MongoDB
+- 🌱 I’m currently learning JavaScript, Angular and MongoDB
 <!-- - 📫 How to reach me: kcocalak@gmail.com -->
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
