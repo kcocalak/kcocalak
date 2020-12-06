@@ -1,6 +1,6 @@
 ### Hi there, I am Kağan 👋
 
-I am a Computer Engineering senior student at ITU. I learned C and C++ at ITU. On the other hand, I write software solutions with Python. My coding carrer started 5 years ago. I did 2 internships. Firstly, I worked on VBT Information Technologies at Ankara. Other intership was did on Softtech at Istanbul. Now, I've been working at Softtech for about a year and I am using .Net Core, Angular and MongoDB. I will graduate this February. And I am actively searching on a job.
+I am a Computer Engineering senior student at ITU. I learned C and C++ at ITU. On the other hand, I write software solutions with Python. My coding carrer started 5 years ago. I did 2 internships. Firstly, I worked on VBT Information Technologies at Ankara. Other intership was did on Softtech at Istanbul. Now, I've been working at Softtech for about a year and I am using JavaScript, Angular and MongoDB. I will graduate this February. And I am actively searching on a job.
 
 
 - 🔭 I’m currently working on Softtech
